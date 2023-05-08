@@ -1,10 +1,10 @@
 <img src="images/DSApps_logo_small.jpg" align="right" />
 
-# DSApps @ TAU 2023: Assignment 3
+# DSApps @ TAU 2023: Assignment 5
 
-### Welcome to Assignment 3!
+### Welcome to Assignment 5!
 
-For details on how to run the assignment (Submission mode) see [here](https://github.com/DSApps-2023/Class_Slides/blob/main/Apps_of_DS_HW.pdf) and in the assignment itself ([hw3.Rmd](hw3.Rmd) and [hw3.ipynb](hw3.ipynb)).
+For details on how to run the assignment (Submission mode) see [here](https://github.com/DSApps-2023/Class_Slides/blob/main/Apps_of_DS_HW.pdf) and in the assignment itself ([hw5.Rmd](hw5.Rmd).
 
 In general:
 
